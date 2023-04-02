@@ -1,5 +1,5 @@
 # DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】
-## ３章 演習問題
+## ８章 演習問題
 
 DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼうの演習問題です。
 
